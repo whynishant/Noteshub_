@@ -11,7 +11,7 @@ Welcome to Noteshub, your go-to resource for AKTU students. Find comprehensive n
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/noteshub.git
+   git clone https://github.com/whynishant/noteshub.git
 Open index.html in your web browser.
 Contact: nk5870066@gmail.com
 Portfolio: https://whynishant.netlify.app/
